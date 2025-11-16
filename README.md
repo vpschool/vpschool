@@ -2,6 +2,11 @@ Template:
 [![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
 [![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
 
+## Badges
+[![GitHub followers](https://img.shields.io/github/followers/vpschool?label=Followers&style=flat-square)](https://github.com/vpschool)
+[![Public repos](https://img.shields.io/badge/public_repos-3-blue?style=flat-square)](https://github.com/vpschool?tab=repositories)
+[![MLH Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
+
 ## About
 👋 Heyo, I'm Vivek. I'm a Student at Georgia State University. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
 Template:
